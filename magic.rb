@@ -85,6 +85,7 @@ end
 
 
 @possible_answers = {
+  "is cael going to get married this year?" => "Yes, He is going to get married",
   "what is the meaning of life?" => "42",
   "do you like wendys?" => "WHENDEEZ nuts",
   "why's james crying?" => "Cuz he just got DUNKED ON!",
